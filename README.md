@@ -4,7 +4,7 @@
 
 Add twilio API KEY= and SID= on ENV FILE 
 
-Please install ngrock 
+Please install ngrok 
 
 npm i
 
